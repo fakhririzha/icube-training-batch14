@@ -71,9 +71,9 @@ Secara singkat :
 ┗ app
   ┗ design
     ┗ frontend
-      ┗ <nama-vendor-a>
-        ┣ <nama-tema-1>
-        ┗ <nama-tema-2>
+      ┣ <nama-vendor-a>
+      ┣ ┣ <nama-tema-1>
+      ┣ ┗ <nama-tema-2>
       ┗ <nama-vendor-b>
         ┣ <nama-tema-1>
         ┗ <nama-tema-2>
